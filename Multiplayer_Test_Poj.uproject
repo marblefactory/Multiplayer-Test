@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.17",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Multiplayer_Test_Poj",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
